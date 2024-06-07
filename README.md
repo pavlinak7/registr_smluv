@@ -1,2 +1,2 @@
 # registr_smluv
-Automatizované stahování souborů z https://smlouvy.gov.cz/vyhledavani (po dnech).
+Automatizované stahování xlsx souborů z https://smlouvy.gov.cz/vyhledavani (po dnech). 
